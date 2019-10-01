@@ -1,1 +1,3 @@
 # Floor-Tiling
+
+My parents were re-tiling an area of our house themselves. The tiles they choose were made to look like wood flooring; however, since it is not real wood, there were patterns in the tiles. My parents did not want the same pieces near each other. This programs uses a hard-coded floor area to figure out a potential pattern for the tiles. It keeps count of how many of each tile there are available so that the program does not use too many of a single pattern. The output is an array, with numbers my mom assigned each pattern. My parents then used this pattern to create a floor plan and was able to finish flooring in 1 day as opposed to the multiple days it had previously taken them in different areas of the house. 
